@@ -1,0 +1,5 @@
+D:\Downloads - 860 Evo\Tester\Debug\HelloWorld.exe
+D:\Downloads - 860 Evo\Tester\Debug\HelloWorld.pdb
+C:\Users\Administrator\Desktop\Old Desktop\didactic-engine\Debug\HelloWorld.exe
+C:\Users\Administrator\Desktop\Old Desktop\didactic-engine\Debug\HelloWorld.pdb
+C:\Users\Administrator\Desktop\Obj-Renderer\Debug\Obj-Renderer.exe
